@@ -27,7 +27,7 @@ created: function () {
         .then(function (historyData) 
         { 
              
-            vm.historyData = historyData[vm.$route.params.idx] 
+            vm.historyData = historyData[vm.$route.params.idx-1] 
         })
         .catch(function () { vm.fetchError = true })
     },

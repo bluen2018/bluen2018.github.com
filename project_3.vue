@@ -247,3 +247,4 @@
 
 </div>
 </template>
+<script src="/js/project_init.js"/>

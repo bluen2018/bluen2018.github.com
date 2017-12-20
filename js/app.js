@@ -24,14 +24,31 @@ var routes = [
   { path: '/project', component: httpVueLoader('project.vue') },
   { path: '/history', component: httpVueLoader('history.vue') },
   { path: '/history_detail/:idx', component: httpVueLoader('history_detail.vue') },
+  { path: '/project', component: httpVueLoader('project.vue') },
+  { path: '/project_1', component: httpVueLoader('project_1.vue') },
+  { path: '/project_2', component: httpVueLoader('project_2.vue') },
+  { path: '/project_3', component: httpVueLoader('project_3.vue') },
+  { path: '/project_4', component: httpVueLoader('project_4.vue') },
+  
 ];
 
 // 3. 라우터 인스턴스를 생성하고 `routes` 옵션을 전달하십시오.
 // 여기에 추가 옵션을 전달할 수 있지만, 지금은 간단하게 하겠습니다.
 const router = new VueRouter({
-  routes // routes: routes 의 약어
+  routes:routes, // routes: routes 의 약어
+  scrollBehavior : function(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition
+    } else {
+      return { x: 0, y: 0 }
+    }    
+  }
 });
-
+router.onReady(function(){
+  console.log("router.onReady");
+  console.log("router.onReady");
+  console.log("router.onReady");
+});
 //Vue.use( Script2);
 // 4. 루트 인스턴스를 만들고 마운트하십시오.
 // 라우터 옵션을 라우터에 삽입하여
