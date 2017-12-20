@@ -26,8 +26,7 @@ created: function () {
         .then(function (response) { return response.json() })
         .then(function (historyData) 
         { 
-             
-            vm.historyData = historyData[vm.$route.params.idx-1] 
+            vm.historyData = historyData.reverse()[vm.$route.params.idx-1] 
         })
         .catch(function () { vm.fetchError = true })
     },

@@ -512,36 +512,36 @@
 			
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(1)Water Solutions.html"><img src="images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_1"><img src="images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(1)Water Solutions.html">수 처리 시스템 Convergent Water Treatment&Control System</a></h5>
+					<h5><a href="#/project_1">수 처리 시스템 Convergent Water Treatment&Control System</a></h5>
 					<p>생명의 근원인 물의 적정처리를 위한 시스템에 핵심 기술인 촉매 합금 필터를 적용하여 저 에너지 무약품 처리 공정을 제공합니다.</p>
 				</div>
 			</div>
 		
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(2)COD analyzer.html"><img src="images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_2"><img src="images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(2)COD analyzer.html">수질 자동분석기 CODcr+NH3 Smart Water Analyzer</a></h5>
+					<h5><a href="#/project_2">수질 자동분석기 CODcr+NH3 Smart Water Analyzer</a></h5>
 					<p>물의 오염 정도를 분석하고 감시하는 수질(COD) 자동분석기를 수출합니다 Total Water Solution을 제공합니다.</p>
 				</div>
 			</div>
 				
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(3)REDOX Filter.html"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_3"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(3)REDOX Filter.html">레독스 촉매 필터 REDOX Filter Technology</a></h5>
+					<h5><a href="#/project_3">레독스 촉매 필터 REDOX Filter Technology</a></h5>
 					<p>삶의 질을 위협하는 매연과 미세먼지 등을 저 에너지로 처리하여 청정 공기로만들어 제공합니다.</p>
 				</div>
 			</div>
 				
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(4)BLUE EYE.html"><img src="images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_4"><img src="images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(4)BLUE EYE.html">상수관망 밸브정보 기술 Wireless Valve Monitoring System</a></h5>
+					<h5><a href="#/project_4">상수관망 밸브정보 기술 Wireless Valve Monitoring System</a></h5>
 					<p>상수도 밸브와 연동하여 개폐 정도를 계량화하여 제공하고 통과 유량 측정하여 광역 상수고 관리에 최적 데이터를 제공하는 System을 제공합니다.</p>
 				</div>
 			</div>

@@ -21,7 +21,7 @@
 					<li><a href="#filter" class="selected" data-option-value="*">All</a></li>
 					<li><a href="#filter" data-option-value=".interior-design">Water Solution</a></li>
 					<li><a href="#filter" data-option-value=".architecture">COD Analyzer</a></li>
-					<li><a href="#filter" data-option-value=".scenery">REDOX filter</a></li>
+					<li><a href="#filter" data-option-value=".REDOX">REDOX filter</a></li>
 					<li><a href="#filter" data-option-value=".real-estate">BLUE EYE</a></li>
 				</ul>
 			</div>
@@ -60,7 +60,7 @@
 		</div>
 		
 		<!-- 1/2 Column -->
-		<div class="eight columns portfolio-item interior-design architecture real-estate">
+		<div class="eight columns portfolio-item REDOX">
 			<div class="picture"><a href="#/project_3"><img src="images/portfolio/BLUEN_Project-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description alt">
 				<h5><a href="#/project_3">레독스 촉매 필터 REDOX Filter Technology</a></h5>
