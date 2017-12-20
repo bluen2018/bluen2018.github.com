@@ -44,7 +44,9 @@
 		<div class="eight columns portfolio-item interior-design architecture">
 			<div class="picture"><a href="#/project_1"><img src="images/portfolio/BLUEN_Project-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
 			<div class="item-description alt">
+
 				<h5><a href="#/project_1">融合型水处理系统 Convergent Water Treatment&Control System</a></h5>
+
 				<p>确保生命的根源-水的适当处理系统,采用核心技术人员的催化剂,提供低能耗处理工艺。</p>
 			</div>
 		</div>
