@@ -6493,3 +6493,10 @@ table.standard-table.shop td {
 	}
 	
 }
+
+.client-list li {
+	float: left;
+	margin: 10px;
+	width: 200px;
+	height: 100px;
+}
