@@ -58,7 +58,11 @@ var routes = [
   { path: '/ko/project_4', component: httpVueLoader('project_4.vue') },
 
 ];
-
+ function changeLang(lang)
+ {
+   $cookies.set("bluen-lang",lang); 
+    location.reload(true);
+ }
 // 3. 라우터 인스턴스를 생성하고 `routes` 옵션을 전달하십시오.
 // 여기에 추가 옵션을 전달할 수 있지만, 지금은 간단하게 하겠습니다.
 const router = new VueRouter({
