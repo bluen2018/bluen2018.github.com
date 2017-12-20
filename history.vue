@@ -190,7 +190,7 @@ created: function () {
       vm.fetchError = false
       fetch('history.json')
         .then(function (response) { return response.json() })
-        .then(function (historyData) { vm.historyData = historyData })
+        .then(function (historyData) { vm.historyData = historyData.reverse() })
         .catch(function () { vm.fetchError = true })
     },
     getField: function (object, field) {
