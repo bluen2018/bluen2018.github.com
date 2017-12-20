@@ -167,7 +167,7 @@
 </div>
 </template>
 
-<<script>
+<script>
 module.exports = {
 	data: function() {
 		return {

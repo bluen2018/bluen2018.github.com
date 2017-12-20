@@ -18,6 +18,7 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/boxed.css" id="layout">
 <link rel="stylesheet" type="text/css" href="css/colors/blue.css" id="colors">
+<!-- <link rel="stylesheet" type="text/css" href="css/vue2-animate.min.css"> -->
 
 <!-- Java Script
 ================================================== -->
@@ -42,6 +43,7 @@
 <script src="/js/waypoints.min.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
 <script src="/js/custom.js"></script>
+<script src="/js/page_init.js"></script>
 
 <!-- REVOLUTION JS FILES -->
 <script type="text/javascript" src="/js/jquery.themepunch.tools.min.js"></script>
@@ -63,6 +65,21 @@
 <script type="text/javascript" src="/js/extensions/revolution.extension.slideanims.min.js"></script>
 <script type="text/javascript" src="/js/extensions/revolution.extension.video.min.js"></script>
 
+<style>
+/* 애니메이션 진입 및 진출은 다른 지속 시간 및  */
+/* 타이밍 기능을 사용할 수 있습니다. */
+.slide-fade-enter-active {
+  transition: all .3s ease;
+}
+.slide-fade-leave-active {
+  transition: all .3s ease;
+}
+.slide-fade-enter, .slide-fade-leave-to
+/* .slide-fade-leave-active below version 2.1.8 */ {
+  transform: translateX(10px);
+  opacity: 0;
+}	
+</style>
 </head>
 <body>
 
@@ -165,7 +182,8 @@
 
 <!-- Content -->
 <div id="app">
-	<transition name="slide">
+	<transition name="slide-fade"
+	>
 		<router-view></router-view>
 	</transition>
 </div>
@@ -195,7 +213,7 @@
 			<p>Contact Point</p>
             <P>TEL +82 62-463-3883</P>
             <P>FAX +82  2-6010-7674</P>
-            <P>and e-mail us anytime!</P>        
+            <P>and bluen2018@gmailcom us anytime!</P>        
                     
 		</div>
 		
