@@ -512,9 +512,9 @@
 			
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(1)Water Solutions.html"><img src="images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_1"><img src="images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(1)Water Solutions.html">融合型水处理系统 Convergent Water Treatment&Control System</a></h5>
+					<h5><a href="#/project_1">融合型水处理系统 Convergent Water Treatment&Control System</a></h5>
 					<p>	水处理的方式包括物理处理和化学处理。
 						人类进行水处理的方式已经有相当多年历史，
 						物理方法包括利用各种孔径大小不同的滤材，
@@ -526,9 +526,9 @@
 		
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(2)COD analyzer.html"><img src="images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_2"><img src="images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(2)COD analyzer(CN).html">水质自动分析仪 CODcr+NH3 Smart Water Analyzer</a></h5>
+					<h5><a href="#/project_2">水质自动分析仪 CODcr+NH3 Smart Water Analyzer</a></h5>
 					<p>	多参数水质在线分析仪又名多参数水质自动监测集成系统
 						为了保护水环境，必须加强对污水排放的监测。
 						检测点的设计和检测仪表（主要是水质分析仪）的质量对水环境监测起着至关重要的作用。
@@ -539,18 +539,18 @@
 				
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(3)REDOX Filter.html"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_3"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(3)REDOX Filter(CN).html">催化过滤 REDOX Filter Technology</a></h5>
+					<h5><a href="#/project_3">催化过滤 REDOX Filter Technology</a></h5>
 					<p>氧化-还原反应 (oxidation-reduction reaction, 也作redox reaction)是化学反应前后，元素的氧化数有变化的一类反应。</p>
 				</div>
 			</div>
 				
 			<!-- 1/4 Column -->
 			<div class="four columns">
-				<div class="picture"><a href="Project_(4)BLUE EYE.html"><img src="images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
+				<div class="picture"><a href="#/project_4"><img src="images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
-					<h5><a href="Project_(4)BLUE EYE(CN).html">上水管阀门开关自动化技术 Wireless Valve Monitoring System</a></h5>
+					<h5><a href="#/project_4">上水管阀门开关自动化技术 Wireless Valve Monitoring System</a></h5>
 					<p>	上水管就是供水管，就是为我们提供自来水的水管，一般是由楼后或楼前向楼上供水的。
 						能管里水流量测定数据，设备安装和容易测定管理。</p>
 				</div>

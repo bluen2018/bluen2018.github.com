@@ -236,7 +236,7 @@
 	<div class="one-third column">
             <div class="clear"></div>
             <img src="images/team/about-10.png" alt=""/>
-            <div class="team-name"><h5>정환재 Julian,JUNG 郑换在</h5> <span>COO</span></div>
+            <div class="team-name"><h5>정환재 Julian,JUNG 郑桓在</h5> <span>COO</span></div>
             <div class="team-about"><p>Seoul Tech. Bachelor's degree of Electric and Information Engineering, PIED Inc. co-Founder as CEO,NAM&NAM World patent lawfirm China business partner</p></div>
             
             <!-- Social Icons -->
