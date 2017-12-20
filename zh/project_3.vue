@@ -41,6 +41,8 @@
 				<li><img src="images/portfolio/BLUEN_Project_(3)REDOX Filter-01.png" alt="" /></li>
 				<li><img src="images/portfolio/BLUEN_Project_(3)REDOX Filter-02.png" alt="" /></li>
 				<li><img src="images/portfolio/BLUEN_Project_(3)REDOX Filter-03.png" alt="" /></li>
+				<li><img src="images/portfolio/BLUEN_Project_(3)REDOX Filter-08.png" alt="" /></li>
+				<li><img src="images/portfolio/BLUEN_Project_(3)REDOX Filter-09.png" alt="" /></li>
 			 </ul>
 		</div>
 	</div>
@@ -241,7 +243,8 @@
 			<div class="picture"><a href="BLUEN_Project_(3)REDOX Filter.html"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
 			<div class="item-description related">
 				<h5><a href="BLUEN_Project_(3)REDOX Filter.html">레독스 촉매 필터 REDOX Filter Technology</a></h5>
-				<p>삶의 질을 위협하는 매연과 미세먼지 등을 저 에너지로 처리하여 청정 공기로만들어 제공합니다.</p>
+				<p>산화-환원 반응의 부재인 촉매합금 필터의 REDOX 반응을 통해 생성되는 OH Radical(OH 라디칼)의 산화 환원 반응을 이용하여 중금속을 분해하고 세균을 살균하는 
+				기능을 하므로 처리 약품 사용이 없어 경제적이고 2차 오염도 없습니다.</p>
 			</div>
 		</div>
 			
