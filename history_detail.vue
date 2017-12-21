@@ -223,7 +223,7 @@ created: function () {
 
                     <div class="latest-post-blog">
                         <a href="#">
-                            <img src="images/popular-post-01.png" alt="" />
+                            <img src="/images/popular-post-01.png" alt="" />
                         </a>
                         <p>
                             <a href="#">Maecenas metus lorem nulla, pretium lipsum.</a>
@@ -233,7 +233,7 @@ created: function () {
 
                     <div class="latest-post-blog">
                         <a href="#">
-                            <img src="images/popular-post-02.png" alt="" />
+                            <img src="/images/popular-post-02.png" alt="" />
                         </a>
                         <p>
                             <a href="#">Tetus lorem maecenas facili lipsum pretium.</a>
@@ -243,7 +243,7 @@ created: function () {
 
                     <div class="latest-post-blog">
                         <a href="#">
-                            <img src="images/popular-post-03.png" alt="" />
+                            <img src="/images/popular-post-03.png" alt="" />
                         </a>
                         <p>
                             <a href="#">Lorem pretium metusnula lorem ipsum dolor.</a>
