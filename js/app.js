@@ -103,7 +103,5 @@ router.beforeEach(function(to, from, next){
 // 4. 루트 인스턴스를 만들고 마운트하십시오.
 // 라우터 옵션을 라우터에 삽입하여
 // 전체 응용 프로그램을 라우터가 인식하도록 하십시오.
-const app = new Vue({
-  router
-}).$mount('#app');
+const app = new Vue({router:router}).$mount('#app');
 // 이제 앱을 시작 해보세요!
