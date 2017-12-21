@@ -6500,3 +6500,12 @@ table.standard-table.shop td {
 	width: 200px;
 	height: 100px;
 }
+
+.team-about p
+{
+	height: 140px;
+}
+.social-icons.about
+{
+	margin: -70px 10px 20px 0px;
+}

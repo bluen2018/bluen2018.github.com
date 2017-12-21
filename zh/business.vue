@@ -151,26 +151,26 @@
 		<div class="headline"><h4>Our Partners</h4></div>
 		
 		<ul class="client-list">
-				<li><img src="images/logo-01_ASAN.png" alt=""/></li>
-				<li><img src="images/logo-02_HUMAS.png" alt=""/></li>
-				<li><img src="images/logo-03_JH.png" alt=""/></li>
-				<li><img src="images/logo-04_JEIPI.png" alt=""/></li>
-				<li><img src="images/logo-05_NAM.png" alt=""/></li>
-				<li><img src="images/logo-06.png" alt=""/></li>
-				<li><img src="images/logo-07.png" alt=""/></li>
-				<li><img src="images/logo-08.png" alt=""/></li>
-				<li><img src="images/logo-09.png" alt=""/></li>
-				<li><img src="images/logo-10.png" alt=""/></li>
-				<li><img src="images/logo-11.png" alt=""/></li>
-				<li><img src="images/logo-12.png" alt=""/></li>
-				<li><img src="images/logo-13.png" alt=""/></li>
-				<li><img src="images/logo-14.png" alt=""/></li>
-				<li><img src="images/logo-15.png" alt=""/></li>
-				<li><img src="images/logo-16.png" alt=""/></li>
-				<li><img src="images/logo-17.png" alt=""/></li>
-				<li><img src="images/logo-18.png" alt=""/></li>
-				<li><img src="images/logo-19.png" alt=""/></li>
-				<li><img src="images/logo-20.png" alt=""/></li>
+				<li><img src="/images/logo-01_ASAN.png" alt=""/></li>
+				<li><img src="/images/logo-02_HUMAS.png" alt=""/></li>
+				<li><img src="/images/logo-03_JH.png" alt=""/></li>
+				<li><img src="/images/logo-04_JEIPI.png" alt=""/></li>
+				<li><img src="/images/logo-05_NAM.png" alt=""/></li>
+				<li><img src="/images/logo-06.png" alt=""/></li>
+				<li><img src="/images/logo-07.png" alt=""/></li>
+				<li><img src="/images/logo-08.png" alt=""/></li>
+				<li><img src="/images/logo-09.png" alt=""/></li>
+				<li><img src="/images/logo-10.png" alt=""/></li>
+				<li><img src="/images/logo-11.png" alt=""/></li>
+				<li><img src="/images/logo-12.png" alt=""/></li>
+				<li><img src="/images/logo-13.png" alt=""/></li>
+				<li><img src="/images/logo-14.png" alt=""/></li>
+				<li><img src="/images/logo-15.png" alt=""/></li>
+				<li><img src="/images/logo-16.png" alt=""/></li>
+				<li><img src="/images/logo-17.png" alt=""/></li>
+				<li><img src="/images/logo-18.png" alt=""/></li>
+				<li><img src="/images/logo-19.png" alt=""/></li>
+				<li><img src="/images/logo-20.png" alt=""/></li>
 	
 			</ul>
 		

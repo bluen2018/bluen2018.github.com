@@ -39,10 +39,10 @@
 	<div class="sixteen columns">
 		<div class="flexslider home">
 			<ul class="slides">
-					<li><img src="images/portfolio/BLUEN_Project_(2)COD analyzer-01.png" alt="" /></li>
-					<li><img src="images/portfolio/BLUEN_Project_(2)COD analyzer-02.png" alt="" /></li>
-					<li><img src="images/portfolio/BLUEN_Project_(2)COD analyzer-03.png" alt="" /></li>		
-					<li><img src="images/portfolio/BLUEN_Project_(2)COD analyzer-04.png" alt="" /></li>
+					<li><img src="/images/portfolio/BLUEN_Project_(2)COD analyzer-01.png" alt="" /></li>
+					<li><img src="/images/portfolio/BLUEN_Project_(2)COD analyzer-02.png" alt="" /></li>
+					<li><img src="/images/portfolio/BLUEN_Project_(2)COD analyzer-03.png" alt="" /></li>		
+					<li><img src="/images/portfolio/BLUEN_Project_(2)COD analyzer-04.png" alt="" /></li>
 			 </ul>
 		</div>
 	</div>
@@ -86,7 +86,7 @@
 <div class="twelve columns">
 <div class="padding-right">
 	<div class="headline no-margin"><h4>BLUEN COD-4000</h4></div>
-	<p><img class="image-left" src="images/portfolio/BLUEN_Project_(2)COD analyzer-04(CN).jpg" alt="" />  工作原理：测量方法采用国家标准GB11914-89水质-化学需氧量测定（重铬酸钾法）水样、重铬酸钾、硫酸银（催化剂使直链脂肪族化合物氧化更充分）和浓硫酸的混合液在消解池中被加热到175℃，在此期间铬离子作为氧化剂从VI价被还原成III价而改变了颜色，颜色的改变度与样品中有机化合物的含量成对应关系，仪器通过比色换算直接将样品的COD显示出来。</p>
+	<p><img class="image-left" src="/images/portfolio/BLUEN_Project_(2)COD analyzer-04(CN).jpg" alt="" />  工作原理：测量方法采用国家标准GB11914-89水质-化学需氧量测定（重铬酸钾法）水样、重铬酸钾、硫酸银（催化剂使直链脂肪族化合物氧化更充分）和浓硫酸的混合液在消解池中被加热到175℃，在此期间铬离子作为氧化剂从VI价被还原成III价而改变了颜色，颜色的改变度与样品中有机化合物的含量成对应关系，仪器通过比色换算直接将样品的COD显示出来。</p>
     <p>确保产品的稳定性：</p>
 	<p>■采用了美国MasterFlex的蠕动泵技术</p>
 	<p>■采样系统采用德国的九通阀技术，彻底摆脱管路的压迫老化</p>
@@ -111,7 +111,7 @@
 <div class="twelve columns">
     <div class="padding-right">
         <div class="headline no-margin"><h4>CODcr+NH3 일체형 수질자동분석기</h4></div>
-        <p><img class="image-left" src="images/portfolio/BLUEN_Project_(2)COD analyzer-05.jpg" alt="" />
+        <p><img class="image-left" src="/images/portfolio/BLUEN_Project_(2)COD analyzer-05.jpg" alt="" />
             COD NH3 일체형 수질 자동분석기는 수질 분석기 세계시장 1위를 목표로 개발 되었습니다. 
 			독창적 아이디어와 우수한 기술을 바탕으로 품질, 성능, 재현성, 내구성에서 고객 여러분에게 큰 이익을 드립니다.
 			국가표준에 의한 측정 데이터는 정부가 여러분 기업을 신뢰하는 기반이 됩니다.	</p>
@@ -132,7 +132,7 @@
 <div class="twelve columns">
     <div class="padding-right">
         <div class="headline no-margin"><h4>COD 수질자동분석기</h4></div>
-        <p><img class="image-left" src="images/portfolio/BLUEN_Project_(2)COD analyzer-06.jpg" alt="" /> 측정준비단계 : 측정용 시약이 각 공급유로에  채워질 수 있도록 충분한 시간 동안 펌프를 가동 시킵니다.</p>
+        <p><img class="image-left" src="/images/portfolio/BLUEN_Project_(2)COD analyzer-06.jpg" alt="" /> 측정준비단계 : 측정용 시약이 각 공급유로에  채워질 수 있도록 충분한 시간 동안 펌프를 가동 시킵니다.</p>
 			
 		<P>측정단계 : 시료 또는 시약을 포함하는 유체가 공급되면서 유체의 가열반응과 적정이 이루어집니다. 	
 			유체는 증류수, 황산(H2SO4), 옥살산나트륨(Na2C2O4), 과망간산칼륨(KMnO4)과 같은 시약과, 시료 등 입니다.</p>
@@ -156,7 +156,7 @@
 <div class="twelve columns">
     <div class="padding-right">
         <div class="headline no-margin"><h4>COD 수질자동분석기</h4></div>
-        <p><img class="image-left" src="images/portfolio/BLUEN_Project_(2)COD analyzer-07.jpg" alt="" /> </p>
+        <p><img class="image-left" src="/images/portfolio/BLUEN_Project_(2)COD analyzer-07.jpg" alt="" /> </p>
         <p> 수질원격감시체계는 하수, 폐수 처리시설 및 폐수 배출사업장의 수질오염 물질 배출상황을 실시간으로 감시함으로써 수질 오염사고를 예방하고 사업장으로 하여금 계절별, 시간대별 여러상황에 따른 수질오염물질 배출상황을 분석 , 관리 하도록 함으로써 폐수 배출 시설 방지 시설의 공정개선을 유도하는 역할을 합니다.</p>
                 <p> 중크롬산 칼륨법의  수질오염 공정시험법에 의거한 블루앤의 수질 자동 분석기는 오염 정도가 높은 중국 현장에 적합하게 내구성과 내 부식성 재질로 제작되었습니다.</p>
 				<blockquote>수질원격감시체계(TMS)의 법적근거는? 수질원격감시체계(TMS) 추진정책의 근거는 '수질 및 수생태계 보전에 관한 법률' 제38조의2부터 제38조의5까지에 규정되어 있습니다.</blockquote>
@@ -205,7 +205,7 @@
 		
 		<!-- 1/4 Column -->
 		<div class="four columns">
-			<div class="picture"><a href="#/project_1"><img src="images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
+			<div class="picture"><a href="#/project_1"><img src="/images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
 			<div class="item-description related">
 				<h5><a href="#/project_1">수 처리 시스템 Convergent Water Treatment&Control System</a></h5>
 				<p>생명의 근원인 물의 적정처리를 위한 시스템에 핵심 기술인 촉매 합금 필터를 적용하여 저 에너지 무약품 처리 공정을 제공합니다.</p>
@@ -214,7 +214,7 @@
 	
 		<!-- 1/4 Column -->
 		<div class="four columns">
-			<div class="picture"><a href="#/project_2"><img src="images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
+			<div class="picture"><a href="#/project_2"><img src="/images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
 			<div class="item-description related">
 				<h5><a href="#/project_2">수질 자동분석기 CODcr+NH3 Smart Water Analyzer</a></h5>
 				<p>물의 오염 정도를 분석하고 감시하는 수질(COD) 자동분석기를 수출합니다 Total Water Solution을 제공합니다.</p>
@@ -223,7 +223,7 @@
 			
 		<!-- 1/4 Column -->
 		<div class="four columns">
-			<div class="picture"><a href="#/project_3"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
+			<div class="picture"><a href="#/project_3"><img src="/images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
 			<div class="item-description related">
 				<h5><a href="#/project_3">레독스 촉매 필터 REDOX Filter Technology</a></h5>
 							<p>산화-환원 반응의 부재인 촉매합금 필터의 REDOX 반응을 통해 생성되는 OH Radical(OH 라디칼)의 산화 환원 반응을 이용하여 중금속을 분해하고 세균을 살균하는 
@@ -233,7 +233,7 @@
 			
 		<!-- 1/4 Column -->
 		<div class="four columns">
-			<div class="picture"><a href="#/project_4"><img src="images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
+			<div class="picture"><a href="#/project_4"><img src="/images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
 			<div class="item-description related">
 				<h5><a href="#/project_4">상수관망 밸브정보 기술 Wireless Valve Monitoring System</a></h5>
 				<p>상수도 밸브와 연동하여 개폐 정도를 계량화하여 제공하고 통과 유량 측정하여 광역 상수고 관리에 최적 데이터를 제공하는 System을 제공합니다.</p>

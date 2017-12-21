@@ -82,7 +82,5 @@
 <!-- End 960 Container -->
 
 </div>
-<!-- Wrapper / End -->
-
-</div>
 </template>
+<script src="/js/project_init.js"/>

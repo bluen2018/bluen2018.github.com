@@ -29,7 +29,7 @@
 <div class="padding-right">
 	<!-- Post -->
 	<div class="post">
-		<div class="post-img picture"><a href="Index(MAIN&MENU)(EN).html"><img src="images/blog-img-01.jpg" alt="" /><div class="image-overlay-link"></div></a></div>
+		<div class="post-img picture"><a href="Index(MAIN&MENU)(EN).html"><img src="/images/blog-img-01.jpg" alt="" /><div class="image-overlay-link"></div></a></div>
 		<a href="#" class="post-icon"><i class="fa fa-file"></i></a>
 		<div class="post-content">
 			<div class="post-title"><h2><a href="Index(MAIN&MENU)(EN).html">This is a standard post format with preview picture</a></h2></div>
@@ -64,11 +64,11 @@
 			<div class="flexslider subpage">
 				<ul class="slides">
 				
-					<li><div class="picture"><a href="images/blog-img-02-large.jpg" rel="image-gallery" title="Rocks and Sky"><img src="images/blog-img-02.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div></li>
+					<li><div class="picture"><a href="images/blog-img-02-large.jpg" rel="image-gallery" title="Rocks and Sky"><img src="/images/blog-img-02.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div></li>
 					
-					<li><div class="picture"><a href="images/blog-img-03-large.jpg" rel="image-gallery" title="Grand Canyon"><img src="images/blog-img-03.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div></li>
+					<li><div class="picture"><a href="images/blog-img-03-large.jpg" rel="image-gallery" title="Grand Canyon"><img src="/images/blog-img-03.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div></li>
 					
-					<li><div class="picture"><a href="images/blog-img-04-large.jpg" rel="image-gallery" title="Road to Hell"><img src="images/blog-img-04.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div></li>
+					<li><div class="picture"><a href="images/blog-img-04-large.jpg" rel="image-gallery" title="Road to Hell"><img src="/images/blog-img-04.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div></li>
 					
 				</ul>
 			</div>
@@ -162,17 +162,17 @@
 		<div class="headline no-margin"><h4>Popular Posts</h4></div>
 		
 		<div class="latest-post-blog">
-			<a href="#"><img src="images/popular-post-01.png" alt="" /></a>
+			<a href="#"><img src="/images/popular-post-01.png" alt="" /></a>
 			<p><a href="#">Maecenas metus lorem nulla, pretium lipsum.</a> <span>12 August 2012</span></p>
 		</div>
 	
 		<div class="latest-post-blog">
-			<a href="#"><img src="images/popular-post-02.png" alt="" /></a>
+			<a href="#"><img src="/images/popular-post-02.png" alt="" /></a>
 			<p><a href="#">Tetus lorem maecenas facili lipsum pretium.</a> <span>26 July 2012</span></p>
 		</div>
 			
 		<div class="latest-post-blog">
-			<a href="#"><img src="images/popular-post-03.png" alt="" /></a>
+			<a href="#"><img src="/images/popular-post-03.png" alt="" /></a>
 			<p><a href="#">Lorem pretium metusnula lorem ipsum dolor.</a> <span>16 June 2012</span></p>
 		</div>
 

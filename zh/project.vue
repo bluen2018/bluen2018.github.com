@@ -1,5 +1,5 @@
 ﻿<template>
-	<div v-thml="">
+	<div v-html="">
 
 <!-- Content
 ================================================== -->
@@ -87,3 +87,4 @@
 
 </div>
 </template>
+<script src="/js/project_init.js"/>
