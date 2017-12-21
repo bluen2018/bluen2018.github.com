@@ -39,10 +39,10 @@ var routes = [
   { path: '/en/history', component: httpVueLoader('history.vue') },
   { path: '/en/history_detail/:idx', component: httpVueLoader('history_detail.vue') },
   { path: '/en/project', component: httpVueLoader('/en/project.vue') },
-  { path: '/ko/project_1', component: httpVueLoader('/en/project_1.vue') },
-  { path: '/ko/project_2', component: httpVueLoader('/en/project_2.vue') },
-  { path: '/ko/project_3', component: httpVueLoader('/en/project_3.vue') },
-  { path: '/ko/project_4', component: httpVueLoader('/en/project_4.vue') },
+  { path: '/en/project_1', component: httpVueLoader('/en/project_1.vue') },
+  { path: '/en/project_2', component: httpVueLoader('/en/project_2.vue') },
+  { path: '/en/project_3', component: httpVueLoader('/en/project_3.vue') },
+  { path: '/en/project_4', component: httpVueLoader('/en/project_4.vue') },
   
   { path: '/zh', component: httpVueLoader('/zh/main.vue') },
   { path: '/zh/about', component: httpVueLoader('/zh/about.vue') },
@@ -52,10 +52,10 @@ var routes = [
   { path: '/zh/history', component: httpVueLoader('history.vue') },
   { path: '/zh/history_detail/:idx', component: httpVueLoader('history_detail.vue') },
   { path: '/zh/project', component: httpVueLoader('/zh/project.vue') },
-  { path: '/ko/project_1', component: httpVueLoader('project_1.vue') },
-  { path: '/ko/project_2', component: httpVueLoader('project_2.vue') },
-  { path: '/ko/project_3', component: httpVueLoader('project_3.vue') },
-  { path: '/ko/project_4', component: httpVueLoader('project_4.vue') },
+  { path: '/zh/project_1', component: httpVueLoader('/zh/project_1.vue') },
+  { path: '/zh/project_2', component: httpVueLoader('/zh/project_2.vue') },
+  { path: '/zh/project_3', component: httpVueLoader('/zh/project_3.vue') },
+  { path: '/zh/project_4', component: httpVueLoader('/zh/project_4.vue') },
 
 ];
  function changeLang(lang)
