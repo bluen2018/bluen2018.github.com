@@ -135,7 +135,6 @@
 				<li><img src="/images/logo-10.png" alt=""/></li>
 				<li><img src="/images/logo-11.png" alt=""/></li>
 				<li><img src="/images/logo-12.png" alt=""/></li>
-				<li><img src="/images/logo-13.png" alt=""/></li>
 				<li><img src="/images/logo-14.png" alt=""/></li>
 				<li><img src="/images/logo-15.png" alt=""/></li>
 				<li><img src="/images/logo-16.png" alt=""/></li>
