@@ -26,7 +26,7 @@
 		<div class="headline no-margin"><h4>Global Water Technology Hidden-Champion</h4></div>
 		
 		<div class="one-third column alpha">
-			<p>BLUE(파란색)는 생명의 근원인 물에 안심과 신뢰를 제공하는 블루앤 기업 상징입니다.</p>
+			<p>BLUE(파란색)는 생명의 근원인 물에 안심과 신뢰를 제공하는 <span style="color:blue">블루앤</span>의 기업 상징입니다.</p>
 			
 		</div>
 		
@@ -41,8 +41,8 @@
 		<ul class="list-1">
 			<li>수질 오염 감시체계 자동 분석기</li>
 			<li>데이터기반 수질 환경 분석 시스템</li>
-			<li>저 비용 고효율 난 분해 폐수처리 시스템</li>
-			<li>레독스 필터 응용 생활건강 시스템</li>
+			<li>난 분해 폐수를 저 비용 고효율로 처리하는 시스템</li>
+			<li>레독스 필터를 응용한 생활 건강 시스템</li>
 		</ul>
 	</div>
 	
@@ -59,8 +59,8 @@
 			<div class="featured-box">
 				<div class="circle"><i class="fa fa-tint"></i><span></span></div>
 				<div class="featured-desc">
-					<h3>1.수처리 시스템</h3>
-					<p>-생명의 근원인 물의 적정처리를 위한 시스템에 핵심 기술인 촉매 합금 필터를 적용하여 저 에너지 무약품 처리 공정을 제공합니다.</p>
+					<h3><span style="color:#1565C0">1.수처리 시스템</span></h3>
+					<p>생명의 근원인 물을 적정하게 처리하기 위해 촉매합금 필터를 사용하였습니다. 이 촉패합금 필터는 수 처리 시스템의 핵심 기술인데, 이 필터의 역할로 에너지나 약품의 사용을 최소할 수 있습니다.</p>
 				</div>
 			</div>
 
@@ -72,8 +72,8 @@
 			<div class="featured-box">
 				<div class="circle"><i class="fa fa-cogs"></i><span></span></div>
 				<div class="featured-desc">
-					<h3>2.수질 자동분석기</h3>
-					<p>배출수의 화학적산소요구량(COD)을 암모니아와 함께 분석하고 그 데이터를 전송하는 수질(COD) 자동분석기를 수출합니다.</p>
+					<h3><span style="color:#1565C0">2.수질 자동분석기</span></h3>
+					<p>COD와 암모니아NH3를 자동 분석하는 수질(CODcr+NH3)자동분석기를 수출 합니다. 측정 데이터는 Total Water Solution을 통해 제공합니다.</p>
 				</div>
 			</div>
 
@@ -91,8 +91,8 @@
 			<div class="featured-box homepage">
 				<div class="circle"><i class="fa fa-random"></i></i><span></span></div>
 				<div class="featured-desc">
-					<h3>3.레독스 촉매 필터</h3>
-					<p>산화-환원 부재인 촉매합금 필터의 REDOX 반응으로 생성된 OH Radical (OH 라디칼)이 산화-환원 반응을 일으키고, 그 반응으로 중금속을 분해하고 세균을 살균하는 기능을 통해 처리 약품 사용이 없고 경제적이며 2차 오염이 없는 필터 기술입니다.</p>
+					<h3><span style="color:#1565C0">3.레독스 촉매 필터</span> </h3>
+					<p>촉매합금 필터인 REDOX의 전기화학적 반응으로 OH Radical(OH 라디칼)이 생성 됩니다. 이 OH Radical의 산화-환원 반응을 이용하여 중금속을 분해하고 세균을 살균합니다. 이런 기능은 처리에 필요한 약품이나 전기 기계장치를 불필요하게 합니다. 그래서 경제적이며 2차 오염도 없습니다.</p>
 				</div>
 			</div>
 		</div>
@@ -102,8 +102,8 @@
 			<div class="featured-box homepage">
 				<div class="circle"><i class="fa fa-road"></i></i><span></span></div>
 				<div class="featured-desc">
-					<h3>4.상수관망 밸브정보 기술</h3>
-					<p>버터플라이 밸브의 개폐율과 연동하여 유체의 통과 유량을 측정하는 시스템으로 관로 중간에 설치하는 방식보다 설치 및 관리가 간편한 환경산업에 적합한 지능형 네트워크 기술입니다.</p>
+					<h3><span style="color:#1565C0">4.상수관망 밸브정보 기술</span></h3>
+					<p>상수관망 밸브정보 기술이 적용된 모니터링 시스템은 상수도 밸브와 연동하여 개폐 정도를 수치화 하고 통과 유량을 측정합니다. 이로써 광역 상수도 관리에 최적 데이터를 제공합니다.</p>
 				</div>
 			</div>
 		</div>
@@ -130,7 +130,6 @@
 				<li><img src="/images/logo-05_NAM.png" alt=""/></li>
 				<li><img src="/images/logo-06.png" alt=""/></li>
 				<li><img src="/images/logo-07.png" alt=""/></li>
-				<li><img src="/images/logo-08.png" alt=""/></li>
 				<li><img src="/images/logo-09.png" alt=""/></li>
 				<li><img src="/images/logo-10.png" alt=""/></li>
 				<li><img src="/images/logo-11.png" alt=""/></li>

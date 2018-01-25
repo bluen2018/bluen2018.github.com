@@ -470,7 +470,7 @@
 			<div class="icon-box">
 				<i class="fa fa-newspaper-o"></i>
 				<h3>1. 수질 자원 분석</h3>
-				<p>무인 자동화 분석 시스템으로 수집한 수질 데이터는 통합 관리 솔루션을 지원합니다.</p>
+				<p>무인 자동화 분석 시스템을 통해 수질 관련 데이터를 수집 합니다. 수집된 데이터는 통합관리 솔루션에 이용됩니다.</p>
 			</div>
 		</div>
 		<!-- Icon Box End -->
@@ -480,7 +480,7 @@
 			<div class="icon-box">
 				<i class="fa fa-database"></i>
 				<h3>2. 수 처리 데이터 관리</h3>
-				<p>난 분해성 오염 물질, 비점오염 물질의 분해와 제거, 유수분리에 효과적인 솔루션을 제공하여 환경보호 정책에 맞는 효율적인 관리가 되도록 합니다.</p>
+				<p>블루앤은 난 분해성 오염물질과 비점오염물질의 분해와 제거 솔루션과 유수분리에 효과적인 솔루션을 제공합니다. 블루앤의 솔루션은 기업의 문제가 정부의 환경보호 정책에 저촉되지 않도록 맞춤 설계하여 제공합니다.</p>
 			</div>
 		</div>
 		<!-- Icon Box End -->
@@ -490,7 +490,7 @@
 			<div class="icon-box">
 				<i class="fa fa-info-circle"></i>
 				<h3>3. 광역 상수 통합관리 정보</h3>
-				<p>공공 수자원의 효율적 윤용을 위한 통합 관리망 구축에 필수적인 유량 측정 시스템을 제공하여 시설비 및 운영비를 절감합니다.</p>
+				<p>유량 측정 시스템은 공공 수자원을 효율적으로 운영하기 위해 구축하는 통합 관리망에 꼭 필요 합니다. 이 시스템은 시설비나 운영비를 절약하며 산업 재해 예방에도 효과적이기 때문입니다.</p>
 			</div>
 		</div>
 		<!-- Icon Box End -->
@@ -515,7 +515,7 @@
 				<div class="picture"><a href="#/project_1"><img src="images/portfolio/BLUEN_Project_Small-01.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
 					<h5><a href="#/project_1">수 처리 시스템 Convergent Water Treatment&Control System</a></h5>
-					<p>생명의 근원인 물의 적정처리를 위한 시스템에 핵심 기술인 촉매 합금 필터를 적용하여 저 에너지 무약품 처리 공정을 제공합니다.</p>
+					<p>생명의 근원인 물을 적정하게 처리하기 위해 촉매합금 필터를 사용하였습니다. 이 촉패합금 필터는 수 처리 시스템의 핵심 기술인데, 이 필터의 역할로 에너지나 약품의 사용을 최소할 수 있습니다.</p>
 				</div>
 			</div>
 		
@@ -524,7 +524,7 @@
 				<div class="picture"><a href="#/project_2"><img src="images/portfolio/BLUEN_Project_Small-02.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
 					<h5><a href="#/project_2">수질 자동분석기 CODcr+NH3 Smart Water Analyzer</a></h5>
-					<p>물의 오염 정도를 분석하고 감시하는 수질(COD) 자동분석기를 수출합니다 Total Water Solution을 제공합니다.</p>
+					<p>COD와 암모니아NH3를 자동 분석하는 수질(CODcr+NH3)자동분석기를 수출 합니다. 측정 데이터는 Total Water Solution을 통해 제공합니다.</p>
 				</div>
 			</div>
 				
@@ -533,7 +533,7 @@
 				<div class="picture"><a href="#/project_3"><img src="images/portfolio/BLUEN_Project_Small-03.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
 					<h5><a href="#/project_3">레독스 촉매 필터 REDOX Filter Technology</a></h5>
-					<p>삶의 질을 위협하는 매연과 미세먼지 등을 저 에너지로 처리하여 청정 공기로만들어 제공합니다.</p>
+					<p>촉매합금 필터인 REDOX의 전기화학적 반응으로 OH Radical(OH 라디칼)이 생성 됩니다. 이 OH Radical의 산화-환원 반응을 이용하여 중금속을 분해하고 세균을 살균합니다. 이런 기능은 처리에 필요한 약품이나 전기 기계장치를 불필요하게 합니다. 그래서 경제적이며 2차 오염도 없습니다.</p>
 				</div>
 			</div>
 				
@@ -542,7 +542,7 @@
 				<div class="picture"><a href="#/project_4"><img src="images/portfolio/BLUEN_Project_Small-04.png" alt=""/><div class="image-overlay-link"></div></a></div>
 				<div class="item-description related">
 					<h5><a href="#/project_4">상수관망 밸브정보 기술 Wireless Valve Monitoring System</a></h5>
-					<p>상수도 밸브와 연동하여 개폐 정도를 계량화하여 제공하고 통과 유량 측정하여 광역 상수고 관리에 최적 데이터를 제공하는 System을 제공합니다.</p>
+					<p>상수관망 밸브정보 기술이 적용된 모니터링 시스템은 상수도 밸브와 연동하여 개폐 정도를 수치화 하고 통과 유량을 측정합니다. 이로써 광역 상수도 관리에 최적 데이터를 제공합니다.</p>
 				</div>
 			</div>
 			
@@ -566,7 +566,6 @@
             <li><img src="images/logo-05_NAM.png" alt=""/></li>
             <li><img src="images/logo-06.png" alt=""/></li>
             <li><img src="images/logo-07.png" alt=""/></li>
-            <li><img src="images/logo-08.png" alt=""/></li>
             <li><img src="images/logo-09.png" alt=""/></li>
             <li><img src="images/logo-10.png" alt=""/></li>
             <li><img src="images/logo-11.png" alt=""/></li>
