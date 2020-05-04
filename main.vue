@@ -42,7 +42,7 @@
 
 								data-elementdelay="0.05" 
 								
-								style="z-index: 5; white-space: nowrap;">BLUE N Inc.
+								style="z-index: 5; white-space: nowrap;">BLUE N Inc
 							</div>
 
 							<!-- LAYER NR. 2 -->
