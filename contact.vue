@@ -77,8 +77,9 @@
 
 		<div class="headline no-margin"><h4>Company Location</h4>
 			<!-- Text -->
-	    			<p>H.Q. Office :</p> <p>전라남도환경산업진흥원 전라남도 강진군 성전면 강진산단로 1길 1, 216호(송학리)</p>
-			<p>Seoul R&D Centre Branch :</p> <p>601호(e-TechValley) 서울 용산구 원효로 128</p>
+	    			<p>H.Q. Office :</p> <p>경기벤처창업지원센터 경기도 부천시 원미구 원미1동 부천로136번길 27</p>
+					<P>R&amp;D Office :</p> <p>전라남도환경산업진흥원 전라남도 강진군 성전면 강진산단로 1길 1, 216호(송학리)</p>
+			        <p>Seoul Branch :</p> <p>서울특별시 용산구 새창로 150</p>
 			<br />
 		</div>
 			
@@ -106,23 +107,8 @@
 		});
 		</script>
 		
-	</div>
-	
-	<!-- Contact Details -->
-	<div class="four columns">
-		<br>
-		<div class="headline low-margin"><h4>Social</h4></div>
+	</div>	
 
-			<!-- Social Icons -->
-			<ul class="social-icons">
-				<li><a class="twitter" href="#"><i class="icon-twitter"></i></a></li>
-				<li><a class="dribbble" href="#"><i class="icon-dribbble"></i></a></li>
-				<li><a class="facebook" href="#"><i class="icon-facebook"></i></a></li>
-				<li><a class="linkedin" href="#"><i class="icon-linkedin"></i></a></li>
-				<li><a class="pinterest" href="#"><i class="icon-pinterest"></i></a></li>
-			</ul>
-		
-	</div>
 
 </div>
 <!-- End 960 Container -->
