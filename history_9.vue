@@ -13,7 +13,7 @@
 	
 		<!-- Page Title -->
 		<div id="page-title">
-			<h2>The Blog <span>/ Words of Wisdom</span></h2>
+			<h2>Company History <span>/ 블루앤 소식</span></h2>
 			<div id="bolded-line"></div>
 		</div>
 		<!-- Page Title / End -->
@@ -33,71 +33,22 @@
 
 	<!-- Post -->
 	<div class="post post-page">
-		<div class="post-img picture"><a href="images/blog-img-01-large.jpg" rel="image" title="Beatiful Mountain Ladscape"><img src="images/blog-img-01.jpg" alt="" /><div class="image-overlay-zoom"></div></a></div>
+		<div class="post-img picture"><a href="images/history/BLUEN_HISTORY-08.png" rel="image" title="2017.12.12. 새 둥지에 깃들다(본점 이전)"><img src="images/history/BLUEN_HISTORY-08.png" alt="" /><div class="image-overlay-zoom"></div></a></div>
 		<a href="#" class="post-icon"><i class="fa fa-file"></i></a>
 		<div class="post-content">
-			<div class="post-title"><h2><a href="blog_post.html">This is a standard post format with preview picture</a></h2></div>
-			<div class="post-meta"><span><i class="fa fa-calendar"></i>On 10 August, 2012</span> <span><i class="fa fa-user"></i>By <a href="#">admin</a></span> <span><i class="fa fa-comment"></i>With <a href="#">12 Comments</a></span></div>
+			<div class="post-title"><h2><a href="HISTORY_POST(9).html"> 2018.02.20. IP R&amp;D 특허전략사업 협약 블루앤-지반특허사무소</a></h2></div>
+			<div class="post-meta"><span><i class="fa fa-calendar"></i>On 20 February, 2018</span> <span><i class="fa fa-user"></i></div>
 			<div class="post-description">
-				<p>Maecenas dolor est, interdum a euismod eu, accumsan posuere nisl. Nam sed iaculis massa. Sed nisl lectus, tempor sed euismod quis, sollicitudin nec est. Suspendisse dignissim bibendum tempor. Nam erat felis, commodo sed semper commodo vel mauris suspendisse dignissim bibendum tempus.</p>
-				<p>Sed auctor, sem et volutpat facilisis, risus leo venenatis leo, ultricies accumsan urna ante vel nisl. Integer feugiat risus nec nisl dictum vestibulum. Vestibulum nec purus orci. Mauris ornare dolor eget purus malesuada vitae convallis dui dapibus. Donec sed leo magna, ac pellentesque lorem. Vivamus sapien tortor, lobortis ut ultrices vel, tempus non metus. Suspendisse id est id elit commodo pellentesque non non lorem. Aenean sed blandit sapien. Nullam risus sapien, dignissim tempor auctor non, porta congue mi. </p>
-				<blockquote>Mauris aliquet ultricies ante, non faucibus ante gravida sed. Sed ultrices pellentesque purus, vulputate volutpat ipsum hendrerit sed neque sed sapien rutrum laoreet justo ultrices. In pellentesque lorem condimentum dui conse. Vivamus semper, mi sed congue semper, odio felis tristique neque, ac venenatis mauris augue. </blockquote>
-				<p>Cras varius enim ac tellus gravida aliquet. Praesent nec ante odio, at egestas lorem. Phasellus nec velit sit amet leo pellentesque tempor. Vivamus molestie fringilla nulla, at egestas magna tempor nec. Suspendisse potenti. Vivamus metus massa, viverra sit amet bibendum ac, consequat porta sem. Nullam venenatis faucibus sem. Donec non mi et felis iaculis tempor sed at dolor. </p>
+				<p>한국특허전략개발원 주관 재도전 지원사업  IP R&amp;D 특허전략사업 협약 블루앤-지반특허사무소 </p>
+				<p>농업, 환경 선도 지역 전남을 기반으로 입주기업간의 활발한 기술 교류 및 정부지원사업의 연계를 바탕으로 기업 역량 확대를 위한 전략적 본점이전을 진행하였습니다.
+					향후 기술개발 및 신사업 개발 역량 강화 시너지를 기대할 수 있습니다.</p>	
+				<p>전남환경산업진흥원 BI 센터로 본점 이전(2017.12.18)을 하면서 향후 환경 강소기업으로 도약하기 위해 정부와 연계한 사업 및 연구 기능으로 기업의 개발 역량의 확대를 
+					기대할 수 있게 되었습니다.</p>
+			
 			</div>
 		</div>
 	</div>
-	
-	<!-- Comments -->
-	<div class="headline no-margin"><h4>Comments <span class="comments-amount">(4)</span></h4></div>
-	<div class="comments-sec">
-		
-		<ol class="commentlist">
-			<li>
-				<div class="comments">
-					<div class="avatar"><img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&s=50" alt="" width="50" height="50" border="0" /> </div>
-					<div class="comment-des">
-					<div class="comment-by"><strong>John Doe</strong><span class="reply"><span style="color:#aaa">/ </span><a href="#">Reply</a></span> <span class="date">August 10, 2012</span></div>
-						<p>Maecenas dignissim euismod nunc, in commodo est luctus eget. Proin in nunc laoreet justo volutpat blandit enim. Sem felis, ullamcorper vel aliquam non, varius eget justo. Duis quis nunc tellus. Mauris a felis arcu, vitae sollicitudin mauris. Aliquam quis tellus vel massa mattis ornare et eu felis. </p>
-					</div>
-				</div>
-						 
-				<ol class="childlist">
-					<li>
-					<div class="comments">
-										<div class="avatar"><img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&s=50" alt="" border="0" /> </div>
-						<div class="comment-des">
-						<div class="comment-by"><strong>Admin</strong><span class="reply"><span style="color:#aaa">/ </span><a href="#">Reply</a></span> <span class="date">August 12, 2012</span></div>
-						<p>Dignissim euismod nunc, in commodo est luctus eget. Proin in nunc laoreet justo volutpat blandit enim. Sem felis, ullamcorper vel aliquam non, varius eget justo. Duis quis nunc tellus. Mauris a felis arcu, vitae sollicitudin mauris. Aliquam quis tellus vel massa mattis.</p>
-						</div>
-					</div>
-					</li>
-				</ol>		
-			</li>
-						
-			<li>
-				<div class="comments">
-					<div class="avatar"><img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&s=50" alt="" border="0" /> </div>
-					<div class="comment-des">
-					<div class="comment-by"><strong>Kathy Brown</strong><span class="reply"><span style="color:#aaa">/ </span><a href="#">Reply</a></span><span class="date">August 12, 2012</span></div>
-						<p>Morbi velit eros, sagittis in facilisis non, rhoncus et erat. Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque non metus</p>
-					</div>
-				</div>
-			</li>
-						
-			<li>
-				<div class="comments">
-					<div class="avatar"><img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&s=50" alt="" border="0" /> </div>
-					<div class="comment-des">
-					<div class="comment-by"><strong>John Doe</strong><span class="reply"><span style="color:#aaa">/ </span><a href="#">Reply</a></span><span class="date">August 12, 2012</span></div>
-						<p>Commodo est luctus eget. Proin in nunc laoreet justo volutpat blandit enim. Sem felis, ullamcorper vel aliquam non, varius eget justo. Duis quis nunc tellus. Mauris a felis arcu, vitae sollicitudin mauris.</p>
-					</div>
-				 </div>
-			</li>
-		 </ol>
-					 
-	</div>
-	<div class="clear"></div>
-				
+
 	<!-- Add Comment -->
 	<div class="headline no-margin"><h4>Leave a Comment</h4></div>
 		<div class="form-spacer"></div>
