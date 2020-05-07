@@ -38,8 +38,7 @@
 		</div>
 		<a href="#" class="post-icon"><i class="fa fa-file"></i></a>
 		<div class="post-content">
-			<div class="post-title"><h2><router-link :to="{ path: 'history_detail/'+(index+1)}">{{history.title}}</router-link></h2></div>
-			<div class="post-meta"><span><i class="fa fa-calendar"></i>On 10 August, 2017</span> <span><i class="fa fa-user"></i>By <a href="#">admin</a></span> <span><i class="fa fa-comment"></i>With <a href="#">12 Comments</a></span></div>
+			<div class="post-title"><h2><router-link :to="{ path: 'history_detail/'+(index+1)}">{{history.title}}</router-link></h2></div>				
 			<div class="post-description ellipsis-multi " v-html="history.desc"></div>
 			<router-link :to="{ path: 'history_detail/'+(index+1)}"><a class="button color post-entry" >Continue Reading</a></router-link>
 		</div>
